@@ -136,3 +136,9 @@ buildNumber.properties
 # Built Visual Studio Code Extensions
 *.vsix
 
+.idea/vcs.xml
+.idea/misc.xml
+.idea/jarRepositories.xml
+.idea/encodings.xml
+.idea/compiler.xml
+.idea/checkstyle-idea.xml
