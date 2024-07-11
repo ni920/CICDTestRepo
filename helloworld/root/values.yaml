@@ -1,0 +1,7 @@
+spec:
+  destination:
+    namespace: hello-world
+    server: https://kubernetes.default.svc
+  source:
+    repoURL: ssh://git@stash.softgarden.de:7999/~nico.saia/test-repo.git
+    targetRevision: HEAD
