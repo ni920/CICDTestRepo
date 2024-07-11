@@ -1,3 +1,5 @@
+[![json-yaml-validate](https://github.com/ni920/CICDTestRepo/actions/workflows/main.yml/badge.svg)](https://github.com/ni920/CICDTestRepo/actions/workflows/main.yml)
+
 # Test-Umgebung
 
 Dieses Repository dient dem testen und ausprobieren von ArgoCD
