@@ -1,4 +1,4 @@
-[![json-yaml-validate](https://github.com/ni920/CICDTestRepo/actions/workflows/main.yml/badge.svg)](https://github.com/ni920/CICDTestRepo/actions/workflows/main.yml)
+[![Yaml-Validator](https://github.com/ni920/CICDTestRepo/actions/workflows/main.yml/badge.svg)](https://github.com/ni920/CICDTestRepo/actions/workflows/main.yml)
 
 # Test-Umgebung
 
