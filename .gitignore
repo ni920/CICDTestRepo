@@ -142,3 +142,4 @@ buildNumber.properties
 .idea/encodings.xml
 .idea/compiler.xml
 .idea/checkstyle-idea.xml
+!/.idea/
