@@ -143,3 +143,6 @@ buildNumber.properties
 .idea/compiler.xml
 .idea/checkstyle-idea.xml
 !/.idea/
+.DS_Store
+Manifest/.DS_Store
+.DS_Store
